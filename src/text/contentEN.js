@@ -51,7 +51,7 @@ Liquidity: 5,750,000 (25% LPs will be locked on Dxsale)
 <p>Total per tx for tax: 1%</p>
 <p>Total per tx reflection: 1%</p>
 <p><b>Additional Features/Information:</b> 45% burn before launch to create a blackhole to continue to grow taking more tokens out of circulation</p>
-<p>Marketing funds set aside to allow project to continue longer than a short amount of time.</p>
+<p>Marketing funds set aside to allow funding for continous development</p>
 <p>Contract will not be renounced but it will locked for 7 day periods</p>
 <p>Extremely active anti-bot/whale features will be utilized</p>
 <p>Scavenger hunt for whitelist spot to allow dedicated members in at the ground floor to create a strong foundation.</p>
