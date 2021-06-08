@@ -12,9 +12,9 @@ L3viathan is coming to BSC in Q2 2021.
 <p>
 
 </p>
-It hopes to become comparable to the mythical beast by utilizing some well known and unforseen aspects on BSC.
+It hopes to become comparable to the mythical beast by utilizing some well known and unforeseen aspects on BSC.
 <p>
-Further information is available through navigating through the site, and on socials.
+Further information is available by navigating  the site and on socials.
 </p>
 <p>
 It is recommended to both follow the socials and join the telegram group for information regarding L3viathan.
@@ -46,6 +46,7 @@ Liquidity: 5,750,000 (25% LPs will be locked on Dxsale)
   Team: 230,000 (1%)
 </p>
 <p>Total tax per tx: 6% </p>
+<p> Of which:  </p>
 <p>Total per tx to liquidity: 4%</p>
 <p>Total per tx for tax: 1%</p>
 <p>Total per tx reflection: 1%</p>
