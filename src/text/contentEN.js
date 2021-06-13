@@ -71,6 +71,7 @@ Liquidity: 5,750,000 (25% LPs will be locked on Dxsale)
 <p> 💻 <a rel="noreferrer" target="_blank" href="https://github.com/l3viathanofficial">Github</a></p>
 <p> 👔 <a rel="noreferrer" target="_blank" href="https://www.bscscan.com">Contract/BSCScan</a></p>
 <p> ✈️ <a rel="noreferrer" target="_blank" href="https://t.me/l3viathanbsc">Telegram</a></p>
+<p> ✈️ <a rel="noreferrer" target="_blank" href="https://t.me/l3viathanCN">Telegram Chinese</a></p>
 <p> ✈️ <a rel="noreferrer" target="_blank" href="https://t.me/l3viathanannouncement">Telegram Announcements</a></p>
 <p> 📈 <a rel="noreferrer" target="_blank" href="https://www.dextools.io/app/bsc">Chart Dextools</a></p>
 <p> 📨 <a href="mailto:team@l3viathan.com">E-mail Us</a></p>
