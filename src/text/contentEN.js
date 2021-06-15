@@ -50,7 +50,7 @@ Liquidity: 46,500,000 (20% -LPs will be locked)
 <p>Total per tx to liquidity: 4%</p>
 <p>Total per tx for tax: 1%</p>
 <p>Total per tx reflection: 1%</p>
-<p><b>Additional Features/Information:</b> 45% burn before launch to create a blackhole to continue to grow taking more tokens out of circulation</p>
+<p><b>Additional Features/Information:</b> 13% burn before launch to create a blackhole to continue to grow taking more tokens out of circulation</p>
 <p>Marketing funds set aside to allow funding for continuous development</p>
 <p>Contract will not be renounced but it will locked for 7 day periods</p>
 <p>Extremely active anti-bot/whale features will be utilized</p>
