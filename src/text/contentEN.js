@@ -6,13 +6,13 @@ var contentEN = {
     "content" : 
 <>
 <p>
-L3viathan BSC
+L3viathan BSC / Polygon(matic)
 </p>
-L3viathan is coming to BSC in Q2 2021.
+L3viathan is coming to BSC & Polygon(matic) in Q2-Q3 2021.
 <p>
 
 </p>
-It hopes to become comparable to the mythical beast by utilizing some well known and unforeseen aspects on BSC.
+
 <p>
 Further information is available by navigating  the site and on socials.
 </p>
@@ -28,22 +28,22 @@ It is recommended to both follow the socials and join the telegram group for inf
     "content" : 
 <>
 <p>
-Total Supply: 23,000,000
+Total Supply: 230,000,000
 </p>
 <p>
-Burned: 10,350,000 (45% before launch)
+Burned: 29,900,000 (13% before launch)
 </p>
 <p>
-Whitelist Sale: 5,750,000 (25%)
+Whitelist Sale: 57,500,000 (25%)
 </p>
 <p>
-Liquidity: 5,750,000 (25% LPs will be locked on Dxsale)
+Liquidity: 46,500,000 (20% -LPs will be locked)
 </p>
 <p>
-  Marketing: 920,000 (4% marketing tokens not used before launch will be locked and emit on vesting schedule)
+  Marketing: 13,800,000 (6% marketing tokens not used before launch will be locked and emit on vesting schedule)
 </p>
 <p>
-  Team: 230,000 (1%)
+  Team: 6,900,000 (3%- 1% will be unlocked the remaining 2% will be lock with a vesting schedule)
 </p>
 <p>Total tax per tx: 6% </p>
 <p> Of which:  </p>
