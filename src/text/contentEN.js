@@ -31,10 +31,13 @@ It is recommended to both follow the socials and join the telegram group for inf
 Total Supply: 230,000,000
 </p>
 <p>
-Burned: 29,900,000 (13% before launch)
+Farming/Staking Rewards: 75,400,000 (33%)
 </p>
 <p>
-Whitelist Sale: 57,500,000 (25%)
+Burned: 18,400,000 (8% before launch)
+</p>
+<p>
+ IDO Sale: 57,500,000 (25%)
 </p>
 <p>
 Liquidity: 46,500,000 (20% -LPs will be locked)
@@ -69,7 +72,7 @@ Liquidity: 46,500,000 (20% -LPs will be locked)
 <p> 🐦 <a rel="noreferrer" target="_blank" href="https://twitter.com/L3viathanB">Twitter</a></p>
 <p> 📰 <a rel="noreferrer" target="_blank" href="	https://medium.com/@l3viathan">Medium</a></p>
 <p> 💻 <a rel="noreferrer" target="_blank" href="https://github.com/l3viathanofficial">Github</a></p>
-<p> 👔 <a rel="noreferrer" target="_blank" href="https://www.bscscan.com">Contract/BSCScan</a></p>
+<p> 👔 <a rel="noreferrer" target="_blank" href="https://polygonscan.com/address/0x37e885e0071cb735b64f0806c2adb538845780c1#code">Contract/PolygonScan</a></p>
 <p> ✈️ <a rel="noreferrer" target="_blank" href="https://t.me/l3viathanbsc">Telegram</a></p>
 <p> ✈️ <a rel="noreferrer" target="_blank" href="https://t.me/l3viathan_CN">Telegram Chinese</a></p>
 <p> ✈️ <a rel="noreferrer" target="_blank" href="https://t.me/l3viathanannouncement">Telegram Announcements</a></p>
@@ -81,8 +84,8 @@ Liquidity: 46,500,000 (20% -LPs will be locked)
     "name" : "Roadmap", 
     "content" : 
     <>
-    <p> Q2 2021 - Initial Stage(s)- Whitelist event, BSC Scan information verified/updated, initial relationship with marketers/influencers established,listing on coinhunt and coinsniper (before launch preferred), token launch</p>
-    <p> Q3 2021 - after becoming successfully establish further partnerships with established and emerging tokens on BSC</p>
+    <p> Q2 2021 - Initial Stage(s)- Whitelist event, Polygon Scan information verified/updated, initial relationship with marketers/influencers established,listing on coinhunt and coinsniper (before launch preferred), token launch</p>
+    <p> Q3 2021 - after becoming successfully establish further partnerships with established and emerging tokens on Polygon</p>
     <p>Q4 2021- TBD upon team deliberation and community feedback</p>
     </>
   }
