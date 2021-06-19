@@ -6,9 +6,9 @@ var contentEN = {
     "content" : 
 <>
 <p>
-L3viathan BSC / Polygon(matic)
+L3viathan  Polygon(matic) & BSC
 </p>
-L3viathan is coming to BSC & Polygon(matic) in Q2-Q3 2021.
+L3viathan is coming to Polygon(matic) & BSC in Q2-Q3 2021.
 <p>
 
 </p>
