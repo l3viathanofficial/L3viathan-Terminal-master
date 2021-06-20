@@ -1,0 +1,50 @@
+{
+  "name": "l3viathanInTerminal",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "draggable_dialog": "^1.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "deploy:homepage": "npm run build && gh-pages -d build -o homepage -r https://github.com/"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "website weeeee",
+  "homepage": "https://l3vithan.com/",
+  "repository": {
+    "type": "no",
+    "url": ""
+  },
+  "author": "0xvirtualpet",
+  "license": "MIT",
+  "bugs": {
+    "url": "no"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
