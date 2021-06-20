@@ -14,7 +14,7 @@ class TerminalOutput extends React.Component {
     this.state = {
       timeToWaitTheCommadIsTyped : 1000,
       section        : "about",
-      promptString   : "[l3viathan@BSC]$ ",
+      promptString   : "[l3viathan@blockchain]$ ",
       sectionName    : "",
       sectionContent : "",
     }
